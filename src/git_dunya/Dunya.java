@@ -6,6 +6,8 @@ public class Dunya {
 		
 		System.out.println("day1");
 		System.out.println("day2");
+		System.out.println("day2");
+		System.out.println("day2");
 		System.out.println("day2 remotdan denenme");
 		System.out.println("day2  remote dan denenme var ");
 		System.out.println("day2 branchi olusturuldu ve bunu master olarak kabul edin");
