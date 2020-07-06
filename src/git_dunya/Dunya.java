@@ -6,7 +6,10 @@ public class Dunya {
 		
 		System.out.println("day1");
 		System.out.println("day2");
+		int a;
+		int b=3;
 		System.out.println("day2");
+		String kelime ="conflict";
 		System.out.println("day2");
 		System.out.println("day2 remotdan denenme");
 		System.out.println("day2  remote dan denenme var ");
